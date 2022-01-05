@@ -13,8 +13,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/crownedCat.png',
-  organizationName: 'xreic', // Usually your GitHub org/user name.
+  organizationName: 'mscrowned', // Usually your GitHub org/user name.
   projectName: 'maplestory', // Usually your repo name.
+  trailingSlash: true,
 
   presets: [
     [
@@ -25,7 +26,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/xreic/maplestory/tree/master/',
+          editUrl: 'https://github.com/MSCrowned/maplestory/tree/master/',
         },
         blog: false,
         theme: {
@@ -47,12 +48,12 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Home Page',
+            docId: 'Introduction',
             position: 'left',
             label: 'Guides',
           },
           {
-            href: 'https://github.com/xreic/maplestory',
+            href: 'https://github.com/MSCrowned/maplestory',
             label: 'GitHub',
             position: 'right',
           },

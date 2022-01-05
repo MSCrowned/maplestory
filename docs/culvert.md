@@ -22,13 +22,13 @@ Culvert is a **weekly** guild activity, which consists of two parts:
 1. Open your [guild menu](https://cdn.discordapp.com/attachments/919834461867216946/928064842840031272/unknown.png)
 2. Click the **GUILD CONTENT** button on the left hand side
 3. Click the **ENTER** button under the Culvert section
-   1. Selecting `Enter the Sharenian Culvert` will take you to the [Culvert lobby](../static/img/areas/culvert-lobby.png)
+   1. Selecting `Enter the Sharenian Culvert` will take you to the [Culvert lobby](https://i1.lensdump.com/i/rRSuUH.png)
    2. **Do not pop your buffs here**
-4. Talk to the NPC (Daedal) and select `Enter the Sharenian Culvert` to proceed to the [preparation zone](../static/img/areas/culvert-buff.png)
+4. Talk to the NPC (Daedal) and select `Enter the Sharenian Culvert` to proceed to the [preparation zone](https://i1.lensdump.com/i/rRzUwF.png)
 
   ![Daedal](../static/img/npcs/daedal.png)
 
-5. Start popping your buffs [here in the preparation zone](../static/img/areas/culvert-buff.png)
+5. Start popping your buffs [here in the preparation zone](https://i1.lensdump.com/i/rRzUwF.png)
    :::tip
 
    Find out from your class's Discord (You can probably find your class's Discord from [Reboot Central](https://discord.gg/8Z6eGYFgPk))
@@ -40,7 +40,7 @@ Culvert is a **weekly** guild activity, which consists of two parts:
 
    :::
 
-6. Talk to the NPC (Daedal) again to proceed to the [fight](../static/img/areas/culvert-boss.png)
+6. Talk to the NPC (Daedal) again to proceed to the [fight](https://i3.lensdump.com/i/rRzNhb.png)
 
 
 ## Useful damage boosts

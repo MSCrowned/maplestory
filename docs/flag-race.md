@@ -32,8 +32,8 @@ Entries for Flag Race are disabled on **Sunday 11:00 PM UTC to Monday 1:00 AM UT
    1. Selecting `I want to participate in the Flag Race` will take you to the actual race lobby
       1. **This only works when entry window is open (XX:30, stays open for 2 minutes).**
       2. Just wait for the timer to finish and you will be sent to the race map.
-   2. Selecting `Send me to the Flag Race Practice Lobby` will send you to the [practice lobby](../static/img/areas/flag-lobby.png)
-      1. Talk to the NPC (Programmer Simon) to enter a snowfield to practice
+   2. Selecting `Send me to the Flag Race Practice Lobby` will send you to the [practice lobby](https://i3.lensdump.com/i/rRSPmc.png)
+      1. Talk to the NPC (Programmer Simon) and select `I want to go to the Flag Race Practice Course` to be able to select one of three snowfields to practice
 
          ![Programmer Simon](../static/img/npcs/simon.png)
 

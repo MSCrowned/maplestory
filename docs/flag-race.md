@@ -19,7 +19,7 @@ The jump quest cycles each weekly reset (Monday 12:00 AM UTC) between 3 maps:
 
 **1 weekly mission point is required to enter flag race**.
 These points can be acquired by either killing monsters (5K per WMP) or doing weekly bosses (80 boss points per WMP).
-Clearing CZak, HMag, HHilla, and CRA will net you a little over 80 boss points.
+Clearing CZak, HMag, HHilla, and CRA should net enough boss points for 1 WMP.
 
 Entries for Flag Race are disabled on **Sunday 11:00 PM UTC to Monday 1:00 AM UTC**.
 

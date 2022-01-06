@@ -31,7 +31,7 @@ Culvert is a **weekly** guild activity, which consists of two parts:
 5. Start popping your buffs [here in the preparation zone](https://i1.lensdump.com/i/rRzUwF.png)
    :::tip
 
-   Find out from your class's Discord (You can probably find your class's Discord from [Reboot Central](https://discord.gg/8Z6eGYFgPk))
+   Find out from your class's Discord. (You can probably find your class's Discord from [Reboot Central](https://discord.gg/8Z6eGYFgPk).)
 
    :::
    :::danger

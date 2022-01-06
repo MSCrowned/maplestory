@@ -8,7 +8,7 @@ sidebar_position: 3
 
 Flag race is a jump quest where you clear 3 laps within the 8 minute time limit to get points for your guild for the **week**.
 The amount of points you get is determined by how quickly you can finish all 3 laps.
-Information regarding the flag race skills and scoring can be found [here](https://strategywiki.org/wiki/MapleStory/Flag_Race#Flag_Race_Skills)
+Information regarding the flag race skills and scoring can be found [here](https://strategywiki.org/wiki/MapleStory/Flag_Race#Flag_Race_Skills).
 
 The jump quest cycles each weekly reset (Monday 12:00 AM UTC) between 3 maps:
 1. Daylight Snowfield
@@ -33,9 +33,11 @@ Entries for Flag Race are disabled on **Sunday 11:00 PM UTC to Monday 1:00 AM UT
       1. **This only works when entry window is open (XX:30, stays open for 2 minutes).**
       2. Just wait for the timer to finish and you will be sent to the race map.
    2. Selecting `Send me to the Flag Race Practice Lobby` will send you to the [practice lobby](https://i3.lensdump.com/i/rRSPmc.png)
-      1. Talk to the NPC (Programmer Simon) and select `I want to go to the Flag Race Practice Course` to be able to select one of three snowfields to practice
+      1. Talk to the NPC (Programmer Simon)
 
          ![Programmer Simon](../static/img/npcs/simon.png)
+
+      2. Select `I want to go to the Flag Race Practice Course` to be able to select one of three snowfields to practice
 
 ## In-depth video guide
 1. [Daylight Snowfield](https://www.youtube.com/watch?v=B2nFwelk6lQ)

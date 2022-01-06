@@ -1,17 +1,8 @@
 # Resources
-
-## Bossing
+## Guides
 - [Boss patterns](https://www.youtube.com/playlist?list=PLa2-sX6gKTH_63Zfjp_W2cmWX7t6rnOuM)
   - Contains CRA, Gollux, Lotus, Damien, Lucid, Will, Gloom, VHilla, Darknell, BM, and Seren
 - [Guardian Slime](https://docs.google.com/document/d/1O9jWeH68i5sUrOIYWO-OpdWPsTIyFgN0uspZ3xax0bA/edit)
-
-## Tools and Guides
-- [SuckHard's starforce calculator and more](https://brendonmay.github.io/starforceCalculator/)
-- [sethyboy0's flame score](https://sethyboy0.github.io/flameScoreCalc/index.html)
-- [Xenogent's legion solver](https://xenogents.github.io/LegionSolver/)
-- [Whackybeanz's event helpers](https://whackybeanz.com/maple/events/coin-events)
-- [Grandis Library](https://grandislibrary.com/)
-- [Tower of Oz Comprehensive Guide](https://dexless.com/guides/tower-of-oz-comprehensive-guide.145/)
 - [Maplestory Reboot guide](https://docs.google.com/document/d/132E6dGMNTRHwRh0wDU7xKZvW7f7xeBhR3VNs_2WQzrE/edit)
   - On the top left of the document area there is a button that will show you the document outline when clicked, which useful for navigating quickly between sections.
   - The important stuff are:
@@ -26,6 +17,14 @@
     9. Cubing
     10. Transfer Hammer mechanic
     11. Transpose mechanic
+- [Grandis Library](https://grandislibrary.com/)
+- [Tower of Oz Comprehensive Guide](https://dexless.com/guides/tower-of-oz-comprehensive-guide.145/)
+
+## Tools
+- [SuckHard's starforce calculator and more](https://brendonmay.github.io/starforceCalculator/)
+- [sethyboy0's flame score](https://sethyboy0.github.io/flameScoreCalc/index.html)
+- [Xenogent's legion solver](https://xenogents.github.io/LegionSolver/)
+- [Whackybeanz's event helpers](https://whackybeanz.com/maple/events/coin-events)
 
 ## Other
 

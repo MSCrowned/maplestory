@@ -25,14 +25,13 @@ As of v229, the current way to spam `Ask` for repeated rewards is to:
 1. Have 2 NPCs unlocked
    1. Throwaway NPC - can have any `Ask` option
    2. Desired NPC - should have your desired `Ask` option
-2. Complete the other four `Ask` with the desired NPC
-3. Go to Penguin Port in Rein
-4. Open the Threads of Fate UI
-5. Talk to Puro and select the first option to go to the theme dungeon
+2. Go to Penguin Port in Rein
+3. Open the Threads of Fate UI
+4. Talk to Puro and select the first option to go to the theme dungeon
    1. You'll be put on a boat ride
-6. Open up the `Ask` for your throwaway NPC, **BUT DO NOT CLICK THE ACTUAL ASK OPTION**
-7. Wait for the boat ride to end
-8.  Do your 5 desired `Ask`
+5. Open up the `Ask` for your throwaway NPC, **BUT DO NOT CLICK THE ACTUAL ASK OPTION**
+6. Wait for the boat ride to end
+7.  Do your 5 desired `Ask`
    :::danger
 
    Do **NOT** change channels, go into Cash Shop, or do anything that will change you channel from the one you started your `Ask` on. If you do, then your reward will go from whatever you wanted to mesos instead.

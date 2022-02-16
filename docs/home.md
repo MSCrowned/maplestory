@@ -8,7 +8,9 @@ sidebar_position: 1
 # Welcome ![Crowned cat](../static/img/crownedCat.gif)
 
 We're recruiting active players (mains and second mains). 💪
+
 Our requirements for joining are Lv. 230+ and 3K+ Legion.
+
 Whisper ArkSoMoon (in game) or join the [Discord](https://discord.gg/x7FCtCC) to apply or learn about us.
 
 We're also looking for a new alliance. 👀

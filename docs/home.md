@@ -7,21 +7,18 @@ sidebar_position: 1
 
 # Welcome ![Crowned cat](../static/img/crownedCat.gif)
 
-We're recruiting active players (mains and second mains). 💪
+We're recruiting active players. 💪
 
-Our requirements for joining are Lv. 230+ and 3K+ Legion.
+Our requirements for joining are Lv. 220+ and 2K+ Legion.
 
 Whisper ArkSoMoon (in game) or join the [Discord](https://discord.gg/x7FCtCC) to apply or learn about us.
 
-We're also looking for a new alliance. 👀
-
 ## Requirements
 1. [Culvert](./culvert)
-   - **Required to maintain membership in the guild**
+   - **Required**
    - Culvert is closed between **Sunday at 11:00 PM UTC ~ Monday at 1:00 AM UTC**
 2. [Flag race](./flag)
-   - **Required for guild skills (15/2/15/15)**
-   - We're looking for 100 points (just a clear), but we would highly appreciate anything more than the minimum.
+   - Optional/Required (More info in the Discord)
    - Flag Race is closed between **Sunday at 11:00 PM UTC ~ Monday at 1:00 AM UTC**
 3. Weekly Mission Points
    - **1 point every 5,000 mobs killed** or **1 point every 80 boss points**

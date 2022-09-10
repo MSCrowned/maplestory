@@ -53,13 +53,15 @@ Culvert is a **weekly** guild activity, which consists of two parts:
 - Ursus Atmospheric ![icon](https://maplestory.io/api/GMS/229/item/5121057/icon)
 - Candied Apple ![icon](https://maplestory.io/api/GMS/229/item/2023908/icon)
    - From Doran in Showa Market
+- Sparkling Red Star Potion ![icon](https://maplestory.io/api/GMS/229/item/2003587/icon)
 - (Advanced) Boss Rush Boost Potion ![icon](https://maplestory.io/api/GMS/229/item/2003592/icon) ![icon](https://maplestory.io/api/GMS/229/item/2003596/icon)
 - (Advanced) Weapon Tempering ![icon](../static/img/weapon_tempering.png) ![icon](../static/img/advanced_weapon_tempering.png)
 - Familiars ![icon](https://maplestory.io/api/GMS/229/item/1172000/icon)
 - One of:
   - Onyx Apple ![icon](https://maplestory.io/api/GMS/227/item/2012018/icon)
-  - Cider ![icon](https://maplestory.io/api/GMS/229/item/2022002/icon)
-    - From Doran in Showa Market
-    - Not sure if this works for MATT classes or not. Good luck. If you happen to find one for MATT, then @ArkSoMoon
   - Tengu Atmospheric ![icon](https://maplestory.io/api/GMS/229/item/2023626/icon)
     - Tengu Summon from Threads of Fate
+  - Cider ![icon](https://maplestory.io/api/GMS/229/item/2022002/icon)
+    - From Doran in Showa Market
+  - Yakisoba ![icon](https://maplestory.io/api/GMS/229/item/2022027/icon)
+    - From Bronze in Momijigaoka

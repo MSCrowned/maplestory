@@ -19,25 +19,40 @@ From the mineral pouches ![](https://maplestory.io/api/GMS/228/item/2431232/icon
 2. Select `[Threads of Fate] Unravelling the Threads of Fate`
    1. Clicking `My Level Range` the bottom right will reduce the amount of quests displayed
 
-## Ask Method
+## Prerequisites
 
-As of v229, the current way to spam `Ask` for repeated rewards is to:
-1. Have 2 NPCs unlocked
-   1. Throwaway NPC - can have any `Ask` option
-   2. Desired NPC - should have your desired `Ask` option
-2. Go to Penguin Port in Rien
-3. Open the Threads of Fate UI
-4. Talk to Puro and select the option to go to the theme dungeon
-   1. You'll be put on a boat ride
-   2. If you don't have enough time to do the next part, then you can go to Helios Tower <2nd Floor> or <99th Floor> and use the elevator (This ones gives you around 10 seconds)
-5. Open up the `Ask` for your throwaway NPC, **BUT DO NOT CLICK THE ACTUAL ASK OPTION**
-6. Wait for the boat ride to end
-7.  Do your 5 desired `Ask`
-   :::danger
+1. Have at least 2 NPCs unlocked both with 70 closeness
+   1. Personally, I recommend Takeno and Kurama as their gift items are easy to obtain (Elixirs and Arrows)
 
-   Do **NOT** change channels, go into Cash Shop, or do anything that will change you channel from the one you started your `Ask` on. If you do, then your reward will go from whatever you wanted to mesos instead.
+## How To Obtain The Right `Ask`
 
-   :::
+The way your `Ask` resets is that at the first `Ask` that is started with any NPC will cause the trigger for the reset.
+This means that if you had something like "Go Dig" as your `Ask` for NPC A prior to reset, then after reset if you start another `Ask` with them again then the `Ask` will change to something else and then be displayed in the dialogue.
+So to roll for the correct `Ask` the process is:
+1. After reset, start the first `Ask` of the reset period with any of the NPCs.
+   1. If it doesn't roll the correct `Ask`, then repeat Step 1 again.
+   2. If it rolls the correct `Ask`, then you're done and you can spam it for the rest of this reset period.
+
+:::caution
+
+Read the next section, to continue being able to easily spam `Ask` while retaining your `Ask` beyond each reset.
+
+:::
+
+## How To Spam `Ask`
+
+As of v235, the current way to spam `Ask` without triggering the reset is:
+1. After reset, start an `Ask` with the NPC that does not have the right `Ask`.
+   1. This will trigger the reset on that NPC
+2. Log out
+3. Start an `Ask` with the NPC that has the right `Ask`.
+4.  Do your 5 desired `Ask`
+
+:::danger
+
+Do **NOT** change channels, go into Cash Shop, or do anything that will change you channel from the one you started your `Ask` on. If you do, then your reward will go from whatever you wanted to mesos instead.
+
+:::
 
 ## Closeness
 
@@ -51,11 +66,11 @@ Closeness per NPC [decays weekly on Monday 12:00 AM UTC](https://maplestory.nexo
    3. Below 50 closeness: 5 points will be reduced
 
 Increasing Closeness
-   - `Talk`
+   - `Talk` option with an NPC
      - None of the options matter as they all give +2 closeness now
      - Has a 30 minute cooldown per NPC
      - Does **not** raise closeness when closeness is >= 50
-   - `Gift` an NPC
+   - `Gift` option with an NPC
      - You can only gift each NPC 7 times per week (+21 closeness weekly)
      - [Each NPC has a certain set of items they want](https://maplestory.fandom.com/wiki/Epic/Mushroom_Shrine_Tales#Threads_of_Fate)
        - Easy gifts: Takeno, Tengu, Nue, Yorozu, Kurama, Izuna, and Ibaraki

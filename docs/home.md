@@ -11,7 +11,7 @@ We're recruiting active players. 💪
 
 Our requirements for joining are Lv. 220+ and 2K+ Legion.
 
-Whisper ArkSoMoon (in game) or join the [Discord](https://discord.gg/x7FCtCC) to apply or learn about us.
+Whisper ArkSoMoon (in game) or join the [Discord](https://discord.gg/x7FCtCC) to apply.
 
 ## Requirements
 1. [Culvert](./culvert)

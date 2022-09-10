@@ -19,8 +19,10 @@
     10. Transfer Hammer mechanic
     11. Transpose mechanic
 - [Grandis Library](https://grandislibrary.com/)
+- [6K Legion Rushing](https://www.youtube.com/watch?v=B36MYZYPJ6M)
 - [Tower of Oz Comprehensive Guide](https://dexless.com/guides/tower-of-oz-comprehensive-guide.145/)
-  - [Floor 1 - 41 Video Guide](https://www.youtube.com/watch?v=1hu6Izfz_J4)
+  - [Floor 1 - 41 Video Guide](https://www.youtube.com/watch?v=F_NYWV9N68o)
+  - [Floor 41 - 46 Video Guide](https://www.youtube.com/watch?v=N_PrDji4k8g)
 
 ## Tools
 

@@ -17,9 +17,7 @@ The jump quest cycles each weekly reset (Monday 12:00 AM UTC) between 3 maps:
 
 :::caution
 
-**1 weekly mission point is required to enter flag race**.
-These points can be acquired by either killing monsters (5K per WMP) or doing weekly bosses (80 boss points per WMP).
-Clearing CZak, HMag, HHilla, and CRA should net enough boss points for 1 WMP.
+These points can be acquired by either **killing 1,000 monsters** or **weekly bosses until you have accrued 40 boss points**.
 
 Entries for Flag Race are disabled on **Sunday 11:00 PM UTC to Monday 1:00 AM UTC**.
 
@@ -29,15 +27,12 @@ Entries for Flag Race are disabled on **Sunday 11:00 PM UTC to Monday 1:00 AM UT
 1. Open your [guild menu](https://cdn.discordapp.com/attachments/919834461867216946/928064842840031272/unknown.png)
 2. Click the **GUILD CONTENT** button on the left hand side
 3. Click the **ENTER** button under the Flag Race section
-   1. Selecting `I want to participate in the Flag Race` will take you to the actual race lobby
-      1. **This only works when entry window is open (XX:30, stays open for 2 minutes).**
-      2. Just wait for the timer to finish and you will be sent to the race map.
    2. Selecting `Send me to the Flag Race Practice Lobby` will send you to the [practice lobby](https://i3.lensdump.com/i/rRSPmc.png)
-      1. Talk to the NPC (Programmer Simon)
+   3. Talk to the NPC (Programmer Simon)
 
-         ![Programmer Simon](../static/img/npcs/simon.png)
+      ![Programmer Simon](../static/img/npcs/simon.png)
 
-      2. Select `I want to go to the Flag Race Practice Course` to be able to select one of three snowfields to practice
+   4. Select `I want ot participate in the Flag Race` to be run.
 
 ## In-depth video guide
 1. [Daylight Snowfield](https://www.youtube.com/watch?v=B2nFwelk6lQ)

@@ -11,8 +11,6 @@ From the herb pouches ![](https://maplestory.io/api/GMS/228/item/2431233/icon), 
 
 From the mineral pouches ![](https://maplestory.io/api/GMS/228/item/2431232/icon), you can get crafting materials which are useful for levelling up your Smithing/Accessory Crafting profession.
 
-## [Quest Guide](https://www.reddit.com/r/Maplestory/comments/p574l9/threads_of_fate_summarized_questline/)
-
 ## Opening Threads of Fate
 
 1. Click the white lightbulb on the left hand side
@@ -21,7 +19,8 @@ From the mineral pouches ![](https://maplestory.io/api/GMS/228/item/2431232/icon
 
 ## Prerequisites
 
-1. Have at least 2 NPCs unlocked both with 70 closeness
+1. Unlock at least 2 NPCs ([Pre-quest guide](https://www.reddit.com/r/Maplestory/comments/p574l9/threads_of_fate_summarized_questline/))
+2. Have at least 2 NPCs unlocked both with 70 closeness
    1. Personally, I recommend Takeno and Kurama as their gift items are easy to obtain (Elixirs and Arrows)
 
 ## How To Obtain The Right `Ask`

@@ -27,12 +27,12 @@ Entries for Flag Race are disabled on **Sunday 11:00 PM UTC to Monday 1:00 AM UT
 1. Open your [guild menu](https://cdn.discordapp.com/attachments/919834461867216946/928064842840031272/unknown.png)
 2. Click the **GUILD CONTENT** button on the left hand side
 3. Click the **ENTER** button under the Flag Race section
-   2. Selecting `Send me to the Flag Race Practice Lobby` will send you to the [practice lobby](https://i3.lensdump.com/i/rRSPmc.png)
-   3. Talk to the NPC (Programmer Simon)
+   1. Selecting `Send me to the Flag Race Practice Lobby` will send you to the [practice lobby](https://i3.lensdump.com/i/rRSPmc.png)
+   2. Talk to the NPC (Programmer Simon)
 
       ![Programmer Simon](../static/img/npcs/simon.png)
 
-   4. Select `I want ot participate in the Flag Race` to be run.
+   3. Select `I want ot participate in the Flag Race` to be run.
 
 ## In-depth video guide
 1. [Daylight Snowfield](https://www.youtube.com/watch?v=B2nFwelk6lQ)

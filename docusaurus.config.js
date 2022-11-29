@@ -50,7 +50,7 @@ const config = {
             type: 'doc',
             docId: 'Introduction',
             position: 'left',
-            label: 'Guides',
+            label: 'Home',
           },
           {
             href: 'https://github.com/MSCrowned/maplestory',
